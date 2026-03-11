@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mobs",
+  "info": {
+    "singularName": "mob",
+    "pluralName": "mobs",
+    "displayName": "mob"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "numEt": {
+      "type": "integer"
+    },
+    "nom": {
+      "type": "string"
+    },
+    "note_math": {
+      "type": "decimal"
+    },
+    "note_phys": {
+      "type": "decimal"
+    },
+    "moyenne": {
+      "type": "decimal"
+    }
+  }
+}
