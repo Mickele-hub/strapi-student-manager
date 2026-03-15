@@ -22,9 +22,6 @@
     },
     "note_phys": {
       "type": "decimal"
-    },
-    "moyenne": {
-      "type": "decimal"
     }
   }
 }

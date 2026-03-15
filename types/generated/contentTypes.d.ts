@@ -447,7 +447,6 @@ export interface ApiMobMob extends Struct.CollectionTypeSchema {
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<'oneToMany', 'api::mob.mob'> &
       Schema.Attribute.Private;
-    moyenne: Schema.Attribute.Decimal;
     nom: Schema.Attribute.String;
     note_math: Schema.Attribute.Decimal;
     note_phys: Schema.Attribute.Decimal;

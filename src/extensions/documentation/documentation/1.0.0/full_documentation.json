@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2026-03-11T14:49:18.764Z"
+    "x-generation-date": "2026-03-15T16:56:51.032Z"
   },
   "x-strapi-config": {
     "plugins": [
@@ -2525,10 +2525,6 @@
                 "type": "number",
                 "format": "float"
               },
-              "moyenne": {
-                "type": "number",
-                "format": "float"
-              },
               "locale": {
                 "type": "string"
               },
@@ -2612,10 +2608,6 @@
             "format": "float"
           },
           "note_phys": {
-            "type": "number",
-            "format": "float"
-          },
-          "moyenne": {
             "type": "number",
             "format": "float"
           },
@@ -3042,10 +3034,6 @@
                   "format": "float"
                 },
                 "note_phys": {
-                  "type": "number",
-                  "format": "float"
-                },
-                "moyenne": {
                   "type": "number",
                   "format": "float"
                 },
